@@ -7,9 +7,6 @@ This repository contains the setup, code, and documentation for the development 
 - [Project Overview](#project-overview)
 - [Hardware Requirements](#hardware-requirements)
 - [Software Setup](#software-setup)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Overview
