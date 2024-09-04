@@ -26,7 +26,7 @@ The objective of this project is to develop a single robotic leg that can be use
 Ensure your Raspberry Pi is running the 64-bit version of Raspberry Pi OS.
 
 ### 2. Setup Waveshare 2-CH CAN HAT/ 2-CH CAN FD HAT
-Before Following any of the instructions below, make sure you check your expnasion Board and Follow the Relevant Instructions:
+Before Following any of the instructions below, make sure you check your expnasion Board and Follow the relevant Instructions:
 
 Follow the instructions provided by Waveshare to set up the 2-Channel CAN HAT. The detailed guide can be found here: [Waveshare 2-CH CAN HAT Setup Guide](https://www.waveshare.com/wiki/2-CH_CAN_HAT).
 
