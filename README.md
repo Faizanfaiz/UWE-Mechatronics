@@ -25,8 +25,12 @@ The objective of this project is to develop a single robotic leg that can be use
 ### 1. Install Raspberry Pi OS (64-bit)
 Ensure your Raspberry Pi is running the 64-bit version of Raspberry Pi OS.
 
-### 2. Setup Waveshare 2-CH CAN HAT
+### 2. Setup Waveshare 2-CH CAN HAT/ 2-CH CAN FD HAT
+Before Following any of the instructions below, make sure you check your expnasion Board and Follow the Relevant Instructions:
+
 Follow the instructions provided by Waveshare to set up the 2-Channel CAN HAT. The detailed guide can be found here: [Waveshare 2-CH CAN HAT Setup Guide](https://www.waveshare.com/wiki/2-CH_CAN_HAT).
+
+Follow the instructions provided by Waveshare to set up the 2-Channel CAN FD HAT. The detailed guide can be found here: [Waveshare 2-CH CAN FD HAT Setup Guide](https://www.waveshare.com/wiki/2-CH_CAN_FD_HAT).
 
 ### 3. Install Required Dependencies
 Install the necessary software packages and dependencies for motor control and CAN communication:
