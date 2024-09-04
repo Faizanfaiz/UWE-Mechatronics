@@ -2,6 +2,7 @@
 This document shows everything needed to build the leg, for the assembly please read the [Assembly Guide](https://github.com/Faizanfaiz/UWE-Mechatronics/tree/main/Assembly#assembly). 
 ## 3D prints
 ## Hardware
+### Hardware for the leg
 |  Item   |       Used for       |    Quantity       | Cost per item |
 |---------|----------------------|-------------------|---------------|
 | RMD-X8 motor | driving the upper and lower leg | 2 |
@@ -21,4 +22,8 @@ This document shows everything needed to build the leg, for the assembly please 
 | M4x10 countersunk| attaching driven pulley to lower leg| 8 |
 | 22x8x7mm bearing | for the pulleys | 3 |
 | 12x8x3.5mm bearing | for the belt tensioner | 4 |
-
+### Hardware for the frame
+| Item | notes | Quantity | cost per item|
+|------|-------|----------|------|
+| 2020 extrusion 1.2m | cut down to length | 3 | £9.22 |
+| SBR12 linear guide rail 500mm 2pcs| | 2 | £26.59 |
