@@ -13,6 +13,7 @@ This repository contains the setup, code, and documentation for the development 
 The objective of this project is to develop a single robotic leg that can be used as a testbed for students learning about robotic control systems, motor dynamics, and gait patterns. The robotic leg is powered by RMD X motors and controlled via a Raspberry Pi 5, interfaced through a Waveshare 2-Channel CAN HAT. This platform allows for practical experimentation in a controlled environment.
 
 ## Hardware Requirements
+For the full list of hardware and BOM click [here](https://github.com/Faizanfaiz/UWE-Mechatronics/tree/main/Parts#hardware)
 - Raspberry Pi 5
 - Waveshare 2-Channel CAN HAT
 - RMD-X8 Motors
