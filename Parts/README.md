@@ -1,14 +1,20 @@
 # Parts list
 This document shows everything needed to build the leg, for the assembly please read the [Assembly Guide](https://github.com/Faizanfaiz/UWE-Mechatronics/tree/main/Assembly#assembly). 
 ## 3D prints
-| Thumbnail | Name | Quantity | Infill | 
-|-----------|------|----------|--------|
-| ![upper-back-leg](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/6d6569ffbb95e3de721a3b56549ab19d14414a4b/Parts/Images/upper%20leg%20back.png ) | upper back leg | | |
-|  | | | |
+All prints use 40% infill.
+| Thumbnail | Name | Quantity |
+|-----------|------|----------|
+| ![upper leg back](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/6d6569ffbb95e3de721a3b56549ab19d14414a4b/Parts/Images/upper%20leg%20back.png ) | upper leg back | 1 |
+| ![upper leg front](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/9581c058c3cca033a6c26cb5bb743ea82579aa64/Parts/Images/upper%20leg%20front.png) | upper leg front | 1 |
+| ![lower leg back](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/9581c058c3cca033a6c26cb5bb743ea82579aa64/Parts/Images/lower%20leg%20back.png) | lower leg back | 1 |
+| ![lower leg front](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/9581c058c3cca033a6c26cb5bb743ea82579aa64/Parts/Images/lower%20leg%20front.png) | lower leg front | 1 |
+| ![tension pin](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/9581c058c3cca033a6c26cb5bb743ea82579aa64/Parts/Images/tension%20pin.png) | tension pin | 4 |
+| ![pulley pin](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/9581c058c3cca033a6c26cb5bb743ea82579aa64/Parts/Images/pulley%20pin.png) | pulley pin | 1 |
+| ![pulley adapter](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/9581c058c3cca033a6c26cb5bb743ea82579aa64/Parts/Images/pulley%20adapter.png) | pulley adapter | 1 |
 
 ### Depreciated
-| Thumbnail | Name | Quantity | Infill | 
-|-----------|------|----------|--------|
+| Thumbnail | Name | Quantity |
+|-----------|------|----------|
 |  | | | |
 
 ## Hardware
