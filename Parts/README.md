@@ -1,7 +1,9 @@
 # Parts list
 This document shows everything needed to build the leg, for the assembly please read the [Assembly Guide](https://github.com/Faizanfaiz/UWE-Mechatronics/tree/main/Assembly#assembly). 
 ## 3D prints
-All models can fit on a minimum printer bed size of 256x256mm, I have printed all parts on the Bambu Lab A1 and X1 Carbon.
+>[!NOTE]
+>All parts can fit on a minimum printer bed size of 256x256mm.  
+>Everything was printed on the Bambu Lab A1 and X1 Carbon in PolyTerra PLA Fossil Grey.
 ### Print settings
 - 35% infill
 - Triangular infill
