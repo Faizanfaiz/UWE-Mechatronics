@@ -1,9 +1,13 @@
 # Parts list
 This document shows everything needed to build the leg, for the assembly please read the [Assembly Guide](https://github.com/Faizanfaiz/UWE-Mechatronics/tree/main/Assembly#assembly). 
 ## 3D prints
+### Depreciated
+| Thumbnail | Name | Quantity | Infill | 
+|-----------|------|----------|--------|
+
 ## Hardware
 ### Hardware for the leg
-|  Item   |       Used for       |    Quantity       | Cost per item |
+|  Item   |       Short description      |    Quantity       | Cost per item |
 |---------|----------------------|-------------------|---------------|
 | RMD-X8 motor | driving the upper and lower leg | 2 |
 | Raspberry pi 5 | driving the motors via can bus and executing code | 1 |
