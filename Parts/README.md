@@ -1,9 +1,15 @@
 # Parts list
 This document shows everything needed to build the leg, for the assembly please read the [Assembly Guide](https://github.com/Faizanfaiz/UWE-Mechatronics/tree/main/Assembly#assembly). 
 ## 3D prints
+| Thumbnail | Name | Quantity | Infill | 
+|-----------|------|----------|--------|
+| ![upper-back-leg](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/6d6569ffbb95e3de721a3b56549ab19d14414a4b/Parts/Images/upper%20leg%20back.png ) | upper back leg | | |
+|  | | | |
+
 ### Depreciated
 | Thumbnail | Name | Quantity | Infill | 
 |-----------|------|----------|--------|
+|  | | | |
 
 ## Hardware
 ### Hardware for the leg
