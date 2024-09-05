@@ -1,7 +1,16 @@
 # Parts list
 This document shows everything needed to build the leg, for the assembly please read the [Assembly Guide](https://github.com/Faizanfaiz/UWE-Mechatronics/tree/main/Assembly#assembly). 
 ## 3D prints
-All prints use 40% infill.
+All models can fit on a minimum printer bed size of 256x256mm, I have printed all parts on the Bambulab A1 and X1 Carbon.
+### Print settings
+- 35% infill
+- Triangular infill
+- Supports enabled
+- 2 or 3 layer thick walls
+- Bottom Z distance = 0.08mm
+- Outer and inner brim 5mm
+
+### 
 | Thumbnail | Name | Quantity |
 |-----------|------|----------|
 | ![upper leg back](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/6d6569ffbb95e3de721a3b56549ab19d14414a4b/Parts/Images/upper%20leg%20back.png ) | upper leg back | 1 |
