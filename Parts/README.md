@@ -14,18 +14,19 @@ This document shows everything needed to build the leg, for the assembly please 
 
 ### 
 | Thumbnail | Name | Quantity |
-|-----------|------|----------|
-| ![upper leg back](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/6d6569ffbb95e3de721a3b56549ab19d14414a4b/Parts/Images/upper%20leg%20back.png ) | upper leg back | 1 |
-| ![upper leg front](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/9581c058c3cca033a6c26cb5bb743ea82579aa64/Parts/Images/upper%20leg%20front.png) | upper leg front | 1 |
-| ![lower leg back](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/9581c058c3cca033a6c26cb5bb743ea82579aa64/Parts/Images/lower%20leg%20back.png) | lower leg back | 1 |
-| ![lower leg front](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/9581c058c3cca033a6c26cb5bb743ea82579aa64/Parts/Images/lower%20leg%20front.png) | lower leg front | 1 |
-| ![tension pin](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/9581c058c3cca033a6c26cb5bb743ea82579aa64/Parts/Images/tension%20pin.png) | tension pin | 4 |
-| ![pulley pin](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/9581c058c3cca033a6c26cb5bb743ea82579aa64/Parts/Images/pulley%20pin.png) | pulley pin | 1 |
-| ![pulley adapter](https://github.com/Faizanfaiz/UWE-Mechatronics/blob/9581c058c3cca033a6c26cb5bb743ea82579aa64/Parts/Images/pulley%20adapter.png) | pulley adapter | 1 |
+|:-----------:|:------:|:----------:|
+| <img src="./Images/upper%20leg%20back.png" width=70%> | upper leg back | 1 |
+| <img src="./Images/upper%20leg%20front.png" width=70%> | upper leg front | 1 |
+| <img src="./Images/lower%20leg%20back.png" width=70%> | lower leg back | 1 |
+| <img src="./Images/lower%20leg%20front.png" width=70%> | lower leg front | 1 |
+| <img src="./Images/tension%20pin.png" width=70%> | tension pin | 4 |
+| <img src="./Images/pulley%20pin.png" width=70%> | pulley pin | 1 |
+| <img src="./Images/pulley%20adapter.png" width=70%> | pulley adapter | 1 |
+| <img src="./Images/coupler.png" width=70%> | coupler | 1 |
 
 ### Depreciated
 | Thumbnail | Name | Quantity |
-|-----------|------|----------|
+|:-----------:|:------:|:----------:|
 |  | | | |
 
 ## Hardware
@@ -34,7 +35,7 @@ This document shows everything needed to build the leg, for the assembly please 
 >The motor can be swapped for similar motors with same diameter and bolting layout.
 
 |  Item   |       Short description      |    Quantity       | Cost per item |
-|---------|----------------------|-------------------|---------------|
+|---------|----------------------|:-------------------:|:---------------:|
 | RMD-X8 motor | drive the upper and lower leg | 2 | ~£350 |
 | Raspberry pi 5 8GB| drive the motors via can bus and executing code | 1 | ~£80 |
 | waveshare 2CH CAN FD HAT | SPI to CAN conversion | 1 | £35.75 |
@@ -42,7 +43,7 @@ This document shows everything needed to build the leg, for the assembly please 
 
 ### Hardware for the leg
 |  Item   |       Short description      |    Quantity       | Cost per item |
-|---------|----------------------|-------------------|---------------|
+|---------|----------------------|:-------------------:|:---------------:|
 | M4 inserts | one side of both upper and lower leg | 14 |
 | M4x30 cap | pulley pin 					   | 1 |
 | M4x20 cap | upper leg enclosure 	   | 8 |
