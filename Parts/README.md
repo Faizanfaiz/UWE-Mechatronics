@@ -30,27 +30,30 @@ This document shows everything needed to build the leg, for the assembly please 
 
 ## Hardware
 ### Electronics needed
+>[!NOTE]
+>The motor can be swapped for similar motors with same diameter and bolting layout.
+
 |  Item   |       Short description      |    Quantity       | Cost per item |
 |---------|----------------------|-------------------|---------------|
-| RMD-X8 motor | drive the upper and lower leg | 2 |
-| Raspberry pi 5 | drive the motors via can bus and executing code | 1 |
-| waveshare CAN HAT | SPI to CAN conversion | 1 |
-| SD card 32GB | raspeberry pi os 64x installed | 1 |
+| RMD-X8 motor | drive the upper and lower leg | 2 | ~£350 |
+| Raspberry pi 5 8GB| drive the motors via can bus and executing code | 1 | ~£80 |
+| waveshare 2CH CAN FD HAT | SPI to CAN conversion | 1 | £35.75 |
+| SD card 32GB | raspeberry pi os 64x installed | 1 | £8.50 |
 
 ### Hardware for the leg
 |  Item   |       Short description      |    Quantity       | Cost per item |
 |---------|----------------------|-------------------|---------------|
-| 26-5M-15 Timing Pulley | moving the lower leg | 2 |
-| 635-5M-15 Timing Belt | moving the lower leg  | 1 |
 | M4 inserts | one side of both upper and lower leg | 14 |
+| M4x30 cap | pulley pin 					   | 1 |
 | M4x20 cap | upper leg enclosure 	   | 8 |
 | M4x16 cap | lower leg enclosure	    | 6 |
-| M4x30 cap | pulley pin 					   | 1 |
 | M4x8 cap | coupler between both motors and the leg | 11 |
-| M4 nut | pulley pin 							  | 1 |
+| M4x10 countersunk| attaching driven pulley to lower leg| 8 |
 | M5x35 pan head| pulley tensioner	   | 2 |
 | M5 nut | pulley tensioner 				  | 2 |
-| M4x10 countersunk| attaching driven pulley to lower leg| 8 |
+| M4 nut | pulley pin 							  | 1 |
+| 26-5M-15 Timing Pulley | moving the lower leg | 2 |
+| 635-5M-15 Timing Belt | moving the lower leg  | 1 |
 | 22x8x7mm bearing | for the pulleys | 3 |
 | 12x8x3.5mm bearing | for the belt tensioner | 4 |
 ### Hardware for the frame
