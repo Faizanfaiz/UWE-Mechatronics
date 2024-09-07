@@ -23,9 +23,10 @@ This document shows everything needed to build the leg, for the assembly please 
 | <img src="./Images/pulley%20pin.png" width=70%> | pulley pin | 1 |
 | <img src="./Images/pulley%20adapter.png" width=70%> | pulley adapter | 1 |
 | <img src="./Images/coupler.png" width=70%> | coupler | 1 |
+| <img src="./Images/motor-plate.png" width=70%>| motor plate | 1 |
 
 ### Depreciated
-| Thumbnail | Name | Quantity |
+| Thumbnail | Name | Reason |
 |:-----------:|:------:|:----------:|
 |  | | | |
 
