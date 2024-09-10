@@ -1,3 +1,4 @@
+
 /*****************************************************************************
  *                                                                           *
  *                     ██╗   ██╗██╗    ██╗███████╗                           *
@@ -42,6 +43,10 @@
 
 #define POSITION_MULTIPLIER 903     // Multiplier for position - Encoder counts for each degree
 #define SPEED_MULTIPLIER 10         // Multiplier for speed
+
+// Define hardcoded angle limits (in degrees)
+#define MIN_ANGLE_LIMIT -120         // Minimum allowable angle
+#define MAX_ANGLE_LIMIT 120          // Maximum allowable angle
 
 // Structure to map motor IDs to CAN interfaces
 typedef struct {
@@ -180,6 +185,12 @@ void close_can(const char *can_interface) {
 }
 
 void send_pos_speed(uint32_t motor_id, int32_t x, uint16_t y) {
+    // Check if the position is within the hardcoded angle limits
+    if (x < MIN_ANGLE_LIMIT || x > MAX_ANGLE_LIMIT) {
+        fprintf(stderr, "Error: Position %d out of range (%d to %d)\n", x, MIN_ANGLE_LIMIT, MAX_ANGLE_LIMIT);
+        return;  // Do not send the frame if out of range
+    }
+
     // Calculate position and speed based on multipliers
     int32_t position = x * POSITION_MULTIPLIER;
     uint16_t speed = y * SPEED_MULTIPLIER;
@@ -222,8 +233,6 @@ void send_pos_speed(uint32_t motor_id, int32_t x, uint16_t y) {
     write(binding->socket, &frame, sizeof(frame));
 }
 
-
 #endif // UWERMDX_IMPLEMENTATION
 
 #endif // UWERMDX_H
-
