@@ -69,7 +69,7 @@ void inversekinematics(double x, double y, double *theta1_deg, double *theta2_de
 int is_valid_quadrant(double x, double y) {
     // 3rd Quadrant: x < 0, y < 0
     // 4th Quadrant: x > 0, y < 0
-    if ((x <= 0 && y < 0) || (x >= 0 && y < 0)) {
+    if ((x <= 0 && y <= -10) || (x >= 0 && y <= -10) || (x >= 0 && y>=-90) || (x <= 0 && y>= -90)) {
         return 1;  // Valid coordinate
     }
     printf("Coordinates (%.2f, %.2f) are in the 1st or 2nd quadrant, which are not allowed.\n", x, y);
