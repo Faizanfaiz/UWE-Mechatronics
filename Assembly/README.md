@@ -34,4 +34,8 @@ After completing step 1 and 2, the assembly should look like this:
 Use 7 M4x8 cap bolts to mount the upper leg back to the lower leg motor.
 <img src="https://github.com/Faizanfaiz/UWE-Mechatronics/blob/85827c12655045a3ead0e936a9d19bb89b890c95/Assembly/images/step%203%20-%20upper%20leg%20back.png" width=50%>
 
+### Step 4
+
+<img src="https://github.com/Faizanfaiz/UWE-Mechatronics/blob/bafa63f6c3be1c2c69f3cc8fb361512db74cf444/Assembly/images/step%204%20-%20driver%20pulley.jpg" width=50%>
+
 # Frame
