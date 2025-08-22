@@ -75,4 +75,5 @@ The completed robot leg should look like this:
 
 <img src="https://github.com/Faizanfaiz/UWE-Mechatronics/blob/main/Assembly/images/final%20front.png" width=50%> <img src="https://github.com/Faizanfaiz/UWE-Mechatronics/blob/main/Assembly/images/final%20isometric.png" width=50%>
 
-# Frame
+# Wiring schematic
+<img src="https://github.com/Faizanfaiz/UWE-Mechatronics/blob/main/Assembly/images/Robot_Leg_Schematic_bb.png" width=100%>
