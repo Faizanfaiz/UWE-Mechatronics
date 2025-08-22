@@ -23,6 +23,7 @@ Press fit the **22 × 8 × 7 mm bearings** into the lower leg driven pulley.
 ### Step 2
 Use 6 **M4 × 16 mm cap bolts** to connect the front and back plates of the lower leg. Place the belt between the two plates, then insert the driven pulley. Align the screw holes with the leg (on the right) and secure the pulley using 8 **M4 × 10 mm countersunk bolts**, 4 on each side.  
 <img src="https://github.com/Faizanfaiz/UWE-Mechatronics/blob/main/Assembly/images/step%202%20-%20lower%20leg.png" width=100%>
+<img src="https://github.com/Faizanfaiz/UWE-Mechatronics/blob/main/Assembly/images/Picture1.png" width=100%>
 
 ### Check
 The lower leg should now look like this:  
@@ -60,6 +61,10 @@ Press fit four **12 × 8 × 3.5 mm bearings** into each tension pin.
 ### Step 6
 Align the tension pins, pulley pin, and lower leg with the upper leg back plate as shown.  
 <img src="https://github.com/Faizanfaiz/UWE-Mechatronics/blob/main/Assembly/images/upper%20and%20lower%20step%201.png" width=50%>
+
+Place the belt around the driver pulley so it looks like this:
+
+<img src="https://github.com/Faizanfaiz/UWE-Mechatronics/blob/main/Assembly/images/Picture2.png" width=50%>
 
 ### Step 7
 Place the upper leg front plate onto the assembly. Secure both halves together using 8 **M4 × 20 mm cap bolts**. Insert 2 **M5 × 35 mm pan head bolts** through the tension pins, and 1 **M4 × 30 mm cap bolt** through the pulley pin.  
