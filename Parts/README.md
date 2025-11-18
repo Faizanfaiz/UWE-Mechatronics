@@ -62,35 +62,41 @@ This document shows everything needed to build the leg, for the assembly please 
 >The motor can be swapped for similar motors with same diameter and bolting layout.
 
 | Item + Link                         | Short description                           | Quantity | Cost per item |
-|-------------------------------------|---------------------------------------------|:--------:|:-------------:|
+|-------------------------------------|---------------------------------------------|:--------:|:--------------|
 | [RMD-X8 motor][RMD-x8]              | drive the upper and lower leg               |    2     |    ~£400      |
 | [Raspberry pi 5 8GB][PI]            | main board for executing code               |    1     |    £76.80     |
 | [waveshare 2CH CAN FD HAT][CAN-HAT] | SPI to CAN conversion                       |    1     |    £35.75     |
 | [SD card 32GB][SD]                  | raspeberry pi os 64x installed              |    1     |    £9.98      |
+| **Total**                           |                                             |          | **£1,322.53** |
 
 
 ### Hardware for the leg
-| Item + Link                         | Short description                         | Quantity | Cost per item/pack  |
-|:------------------------------------|:------------------------------------------|:--------:|:--------------:|
-| [M4 inserts][M4I]                   | one side of both upper and lower leg      |    14    |                |
-| [M4x30 cap][M4x30C]                 | pulley pin                                |     1    |                |
-| [M4x20 cap][M4x20C]                 | upper leg enclosure                       |     8    |                |
-| [M4x16 cap][M4x16C]                 | lower leg enclosure                       |     6    |                |
-| [M4x8 cap][M4x8C]                   | coupler between both motors and the leg   |    11    |                |
-| [M4x10 countersunk][M4x10CS]        | attaching driven pulley to lower leg      |     8    |                |
-| [M5x35 button head][M5x35BH]        | pulley tensioner                          |     2    |                |
-| [M5 nut][M5N]                       | pulley tensioner                          |     2    |                |
-| [M4 nut][M4N]                       | pulley pin                                |     1    |                |
-| [26-5M-15 Timing Pulley][TP26]      | moving the lower leg                      |     2    |                |
-| [635-5M-15 Timing Belt][TB635]      | moving the lower leg                      |     1    |                |
-| [22x8x7mm bearing][B22]             | for the pulleys                           |     3    |                |
-| [12x8x3.5mm bearing][B12]           | for the belt tensioner                    |     4    |                |
+| Item + Link                         | Short description                         | Quantity | Cost per item/pack |
+|:------------------------------------|:------------------------------------------|:--------:|:-------------------|
+| [M4 inserts][M4I]                   | one side of both upper and lower leg      |    14    | £6.49 / 50 pack    |
+| [M4x30 cap][M4x30C]                 | pulley pin                                |     1    | £3.42 / 5 pack     |
+| [M4x20 cap][M4x20C]                 | upper leg enclosure                       |     8    | £3.84 / 10 pack    |
+| [M4x16 cap][M4x16C]                 | lower leg enclosure                       |     6    | £3.54 / 10 pack    |
+| [M4x8 cap][M4x8C]                   | coupler between both motors and the leg   |    11    | £4.00 / 20 pack    |
+| [M4x10 countersunk][M4x10CS]        | attaching driven pulley to lower leg      |     8    | £3.03 / 10 pack    |
+| [M5x35 button head][M5x35BH]        | pulley tensioner                          |     2    | £3.54 / 5 pack     |
+| [M5 nut][M5N]                       | pulley tensioner                          |     2    | £2.64 / 5 pack     |
+| [M4 nut][M4N]                       | pulley pin                                |     1    | £2.64 / 5 pack     |
+| [26-5M-15 Timing Pulley][TP26]      | moving the lower leg                      |     2    | £8.20              |
+| [635-5M-15 Timing Belt][TB635]      | moving the lower leg                      |     1    | £7.37              |
+| [22x8x7mm bearing][B22]             | for the pulleys                           |     3    | £2.04              |
+| [12x8x3.5mm bearing][B12]           | for the belt tensioner                    |     4    | £2.61              |
+| **Total**                           |                                           |          | **£67.76**         |
 
 
 ### Hardware for the frame
 | Item + Link                                   | notes                  | Quantity | cost per item  |
-|:----------------------------------------------|:-----------------------|:--------:|:--------------:|
+|:----------------------------------------------|:-----------------------|:--------:|:---------------|
 | [2020 extrusion 1.2m][EX2020]                 | cut/ordered to length  | 3        | £9.22          |
 | [SBR12 linear guide rail 500mm 2pcs][SBR12]   |                        | 2        | £26.59         |
+| **Total**                                     |                        |          | **£80.84**     |
+
+
+### Total cost: ~£1,471.13 (Subject to change)
 
 
